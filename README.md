@@ -1,4 +1,10 @@
-<h2> Why: 과제 제출시에는 아래 질문을 고민해보고 답변을 함께 제출해주세요.</h1>
+<h2>API</h2>
+![api1](https://user-images.githubusercontent.com/112394164/252889106-52a286f1-b32c-45d4-98b6-87ef8681f3b2.png)
+![api2](https://user-images.githubusercontent.com/112394164/252889596-8142e163-a6e5-4273-ad2b-4ebec9b56c1c.png)
+<h2>ERD</h2>
+![erd](https://user-images.githubusercontent.com/112394164/252888273-e9ed666f-bb6f-47d5-b7eb-8049b20b9ba2.png)
+
+<h2> Why: 과제 제출시에는 아래 질문을 고민해보고 답변을 함께 제출해주세요.</h2>
 1. 처음 설계한 API 명세서에 변경사항이 있었나요? 변경 되었다면 어떤 점 때문 일까요? 첫 설계의 중요성에 대해 작성해 주세요!<br>
 - 처음 설계한 API에서 변경사항은 comment를 찾을 때, post_id 값을 넣기 위해 post_id와 comment_id를 가져오게 수정하였습니다.<br>
 - 코드를 만들면서, 미리 설계해 놓은 API를 보며 순서대로 잘 작성할 수 있었습니다.<br>
