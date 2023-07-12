@@ -1,7 +1,10 @@
 <h2>API</h2>
+
 ![api1](https://user-images.githubusercontent.com/112394164/252889106-52a286f1-b32c-45d4-98b6-87ef8681f3b2.png)
 ![api2](https://user-images.githubusercontent.com/112394164/252889596-8142e163-a6e5-4273-ad2b-4ebec9b56c1c.png)
+
 <h2>ERD</h2>
+
 ![erd](https://user-images.githubusercontent.com/112394164/252888273-e9ed666f-bb6f-47d5-b7eb-8049b20b9ba2.png)
 
 <h2> Why: 과제 제출시에는 아래 질문을 고민해보고 답변을 함께 제출해주세요.</h2>
